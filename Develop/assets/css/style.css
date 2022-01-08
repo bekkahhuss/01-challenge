@@ -61,6 +61,10 @@ p {
     background-position: center;
 }
 
+.hero p {
+    visibility: hidden;
+ }
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,6 +81,24 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.content article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+}
+
+.content img {
+    max-height: 200px;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 /* Benefits Style Start*/ 
@@ -110,23 +132,6 @@ p {
     max-width: 150px;
 }
 
-.content article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff; 
-}
-
-.content img {
-    max-height: 200px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* Footer Style Start*/ 
 
@@ -141,6 +146,3 @@ p {
     font-size: 20px;
 }
 
-.hero p {
-   visibility: hidden;
-}
