@@ -18,7 +18,6 @@ body p {
 header {
     padding: 20px;
     background-color: #2a607c;
-   
 }
 
 header h1 {
@@ -112,6 +111,10 @@ p {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
 /* Content Style End*/ 
