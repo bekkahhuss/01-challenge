@@ -10,5 +10,5 @@ Bootcamp Challenge 01
 
 01 HTML, CSS, and Git: Code Refactor
 
-
+![Horiseon Screenshot] (/images/Horiseon Screenshot.png)
 
