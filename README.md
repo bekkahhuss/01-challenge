@@ -1,14 +1,17 @@
-# Horiseon Social Solution Services 
+# Horiseon
 
-Marketing website detailing company services and benefits. 
+## Application Description 
 
-Refactored to meet accessibility standards - 08JAN2022 
+Horiseon offers digital marketing services such a SEO and lead generation. 
+This website details company services and benefits.
+
+* Page was refactored to meet accessibility standards - 08JAN2022 
+
+* Built with HTML and CSS 
 
 https://bekkahhuss.github.io/01-challenge/
 
-Bootcamp Challenge 01 
-
-01 HTML, CSS, and Git: Code Refactor
+UNC Bootcamp Challenge 01 HTML, CSS, and Git: Code Refactor
 
 ![Horiseon Screenshot](/assets/images/horiseon-screenshot.png)
 
